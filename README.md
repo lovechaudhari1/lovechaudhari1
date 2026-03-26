@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Name : Love Chaudhari
+
 Branch : Computer Science & Engineering in AI & ML
 Year : 2025-26 (1st year)
 I hope to learn to use AI effectively and get the best output possible from it.
